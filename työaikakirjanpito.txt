@@ -1,0 +1,22 @@
+[päivä] - [tunnit] - [mitä tein]
+16.7 - 2 - suunnittelin aiheen ja tein suunnitelmat miten toteutan sovellukseni.
+17.7 - 2 - Suunnittelin frontendiä ja aloitin tekemään sitä.
+18.7 - 8 - Jatkoin paljon frontendiä.
+19.7 - 4 - Frontend (css, favicon, manifest, index.html)
+20.7 - 4 - Frontend (Kalenteri UI)
+21.7 - 8 - Frontend (Kalenteri UI jatkettu, Login, Register), Backend (Login, Register)
+22.7 - 5 - Frontend api kutsut backendiin.
+23.7 - 8 - /api sivu, sovelluksen uudelleen nimeäminen, heroku deployment.
+24.7 - 2 - Suunnittelu.
+25.7 - 3 - Frontend jatkoa.
+26.7 - 3 - Code refactor ja Frontend jatkoa.
+27.7 - 2 - Code refactor ja Frontend UI fixejä.
+28.7 - 8 - Tasks, Css, Backend.
+29.7 - 6 - Tasks valmiiksi, css, backend rest calls, Code Refactor, Tooltip.
+30.7 - 7 - Api sivuun muutoksia, cypress testit frontendille, parannuksia frontendiin, css.
+31.7 - 3 - Ominaisuuksia lisätty, suunniteltu testejä backendiä varten, muut testanneet appia ja kerätty palautetta.
+01.8 - 6 - Heroku deployment ja bugit korjattu, jotta app toimii herokussa, deploymaaminen helpompaa ja nopeampaa jatkossa, backend testit valmiiksi.
+02.8 - 2 - Palautetta kerätty ja appia testattu eri laitteilla.
+05.8 - 6 - Mobiililaitteille optimointia, koodia muokattu selkeämmäksi, kerätystä palautteesta tehdyt muutokset.
+===
+YHTEENSÄ: 90
