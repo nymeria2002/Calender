@@ -17,7 +17,7 @@ You can configure and run the project locally by following the steps below.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/TheJeme/Lavendar.git
+   git clone https://github.com/nymeria_2002/Calender.git
    ```
 2. Setup frontend
    ```sh
